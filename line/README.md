@@ -9,5 +9,4 @@ npm start
 ```
 
 ### Data format
-Sample data is stored in [deck.gl Example Data](https://github.com/uber-common/deck.gl-data/tree/master/examples/line). To use your own data, checkout
-the [documentation of LineLayer](../../docs/layers/line-layer.md).
+Data is from the [NYC Yellow Taxi Trip Dataset](https://data.cityofnewyork.us/Transportation/2015-Yellow-Taxi-Trip-Data/ba8s-jw6u). Check out the API of the dataset [here](https://dev.socrata.com/foundry/data.cityofnewyork.us/2yzn-sicd).
